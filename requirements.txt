@@ -1,0 +1,11 @@
+numpy>=1.24
+scipy>=1.10
+requests>=2.31
+certifi>=2023.7
+Pillow>=10.0
+PyAutoGUI>=0.9.54
+pyperclip>=1.8
+SpeechRecognition>=3.10
+PyAudio>=0.2.14; platform_system == "Windows"
+pyttsx3>=2.90
+imageio[ffmpeg]>=2.31
